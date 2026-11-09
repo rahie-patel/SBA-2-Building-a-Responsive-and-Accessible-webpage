@@ -9,6 +9,7 @@ nav ul{
     gap: 35px;
     list-style: none;
     color:chocolate;
+    justify-content: center;
     
 }
 #herotext{
@@ -31,9 +32,9 @@ nav ul{
     text-align:left;
 }
 #logo{
-    align-items: center;
+    display:grid;
+    place-items: center;
     border:1px solid black;
-    height: 20px;
-    width: 20px;
-
+    height: 100px;
+    width: 100px;
 }
