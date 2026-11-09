@@ -17,3 +17,16 @@ nav ul{
 #hero{
     color:crimson;
 }
+#contact{
+    display:grid;
+    grid-template-columns: auto auto auto auto;
+    background-color: lightblue;
+    padding: 10px;
+}
+#contact div{
+    background-color: lightgreen;
+    border: 1px solid black;
+    padding: 10px;
+    font-size: 30px;
+    text-align:left;
+}
