@@ -4,3 +4,9 @@ body{
     background-color: aqua;
 
 }
+nav ul{
+    display:flex;
+    gap: 35px;
+    list-style: none;
+    color:chocolate;
+}
