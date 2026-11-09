@@ -9,4 +9,11 @@ nav ul{
     gap: 35px;
     list-style: none;
     color:chocolate;
+    
+}
+#herotext{
+    color:brown;
+}
+#hero{
+    color:crimson;
 }
